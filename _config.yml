@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : Meera Alshamsi
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/.jpeg"
   bio    : "I’m Meera Alshamsi, and this website is basically my little corner of the internet where I keep all my projects, designs, and code, saved and organized so you can tag along my journey on Reading Like a Computer!"
   links:
     - label: "Website"
