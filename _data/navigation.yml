@@ -2,6 +2,6 @@ main:
   - title: "Assignments"
     url: /assignments/
   - title: "Responses"
-    url: /categories/
+    url: /responses/
   - title: "About"
     url: /about/
