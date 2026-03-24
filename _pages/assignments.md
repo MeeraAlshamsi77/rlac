@@ -7,7 +7,7 @@ Here are the assignments for this course:
 
 ---
 
-## [Assignment 1: Working with a Corpus S26](assignment-1/)
+## [Assignment 1: Working with a Corpus S26](assignment1/)
 
 Emotional Extremes in the Wizarding World: A Computational Study of Canon and Fanfiction
 
