@@ -3,6 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hi, I’m a student at NYU Abu Dhabi, and this site is where I’ve been documenting my work for Reading Like A Computer (RLAC).
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+The course is all about looking at text in a different way, not just what it says, but how computers process it, break it down, and sometimes completely change how meaning is understood. It’s a mix of thinking, coding, and experimenting, which is exactly why this site looks the way it does.
+
+This space brings together my assignments, reflections, and random trials from the semester. Some things are polished, some are still a work in progress, but everything here shows how my thinking has been developing along the way.
