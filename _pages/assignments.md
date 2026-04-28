@@ -13,9 +13,9 @@ Emotional Extremes in the Wizarding World: A Computational Study of Canon and Fa
 
 ---
 
-## [Assignment 2](/assignments/assignment-2/)
+## [Assignment 2: Comparing Stylo with TF-IDF for a Science Fiction Corpus S26](/assignments/assignment-2/)
 
-Coming soon...
+Between Style and Theme: A Computational Study of Sci-Fi Authors Through Stylo and PCA
 
 ---
 
