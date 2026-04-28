@@ -134,6 +134,33 @@ Collaboration Statement
 
 This project was completed collaboratively by Meera and Mouza. Mouza focused on producing and organizing the computational outputs and visualizations, while Meera focused on analyzing the results and interpreting the patterns. Both of us worked together on refining the final write-up, polishing the structure and language, and developing the overall conclusions together.
 
+Works Cited
+
+Primary Corpus
+
+Brackett, Leigh. The Blue Behemoth. 1943.
+Brackett, Leigh. Enchantress of Venus. 1949.
+Brackett, Leigh. Black Amazon of Mars. 1951.
+Dick, Philip K. Second Variety. 1953.
+Dick, Philip K. The Defenders. 1953.
+Dick, Philip K. The Variable Man. 1953.
+Bloch, Robert, and Henry Kuttner. The Black Kiss. 1937.
+Kuttner, Henry. The Ego Machine. 1952.
+Kuttner, Henry. Thunder in the Void. 1942.
+Norton, Andre. Plague Ship. 1956.
+Norton, Andre. Star Hunter. 1961.
+Norton, Andre. Voodoo Planet. 1959.
+Wells, H. G. The Island of Doctor Moreau. 1896.
+Wells, H. G. The Salvaging of Civilization. 1921.
+Wells, H. G. The War of the Worlds. 1898.
+Bradley, Marion Zimmer. Falcons of Narabedla. 1957.
+Bradley, Marion Zimmer. Jackie Sees a Star. 1954.
+Bradley, Marion Zimmer. The Door Through Space. 1961.
+
+Secondary Source
+
+Underwood, Ted. Distant Horizons: Digital Evidence and Literary Change. University of Chicago Press, 2019.
+
 READY FOR GRADING
 
 
