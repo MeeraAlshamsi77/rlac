@@ -17,8 +17,4 @@ Emotional Extremes in the Wizarding World: A Computational Study of Canon and Fa
 
 Between Style and Theme: A Computational Study of Sci-Fi Authors Through Stylo and PCA
 
----
 
-## [Assignment 3](/assignments/assignment-3/)
-
-Coming soon...
